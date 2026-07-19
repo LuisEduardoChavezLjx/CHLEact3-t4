@@ -203,3 +203,6 @@ POST http://68.155.154.235:8086/api/materias
 POST http://68.155.154.235:8086/api/profesores
 PUT  http://68.155.154.235:8086/api/materias/{id}
 DELETE http://68.155.154.235:8086/api/materias/{id}
+
+COLECCION DE POSTMAN 
+https://www.postman.com/research-saganist-46257039-8346594/workspace/coleccion/collection/56514796-f2c1fee1-fb1c-4ba9-8df3-32758a337576?action=share&source=copy-link&creator=56514796
